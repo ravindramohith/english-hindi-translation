@@ -1,6 +1,9 @@
 # Project Report (English-Hindi Translation)
-**✨Try our English to Hindi Translation [here](https://huggingface.co/spaces/lostUchiha/En_Hi_Translation)!**
-**Open in colab : [click here](https://colab.research.google.com/drive/1UFaevwmjcUwemo3s6GRcGz9KYWOl0CTH?usp=sharing)**
+**✨Explore our English-to-Hindi Translation Tool: [Click Here](https://huggingface.co/spaces/lostUchiha/En_Hi_Translation)!**
+
+**Code:**<a target="_blank" href="https://colab.research.google.com/github/ravindramohith/CS337_Project/blob/main/CS337_PROJECT.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 **Course:** CS 337: AI ML 
 **Team:**
