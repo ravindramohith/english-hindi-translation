@@ -6,14 +6,13 @@
 </a>
 
 **Course:** CS 337: AI ML 
+
 **Team:**
 - Pamba Ravindra Mohith, 210050112
 - Ramavath Sai Srithan, 210050132
 - Ramaswamy Santhosh Reddy, 210050131
 - Thota Sri Lakshmi Teja, 210050158
 - Karanam Lokesh, 210050081 
-
-*November 30, 2023 Project progress report*
 
 ## Table of Contents
 1. [Introduction](#1-introduction)
