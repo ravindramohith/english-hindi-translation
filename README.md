@@ -259,3 +259,5 @@ Interpreting the inner workings of transformer-based models can be challenging d
 
 ## 9 Deployment
 We deployed our app by gradio on hugging face. You can find out [here](https://huggingface.co/spaces/lostUchiha/En_Hi_Translation)
+
+**For more information, [click here](./report.pdf) and view our detailed documentation report.**
